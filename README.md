@@ -1,7 +1,7 @@
 # 基于vue2.0+vuex+localStorage开发的本地记事本
 
 > 本文采用vue2.0+vuex+localStorage+sass+webpack，实现一个本地存储的记事本。兼容PC端和移动端。在线预览地址：[DEMO](http://open.omwteam.com/notepad)
-
+>>来源[林鑫](https://github.com/lin-xin/notepad)
 ## 功能说明
 
 - 支持回车添加事件
